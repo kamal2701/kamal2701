@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 Master of Engineering ISAE-SUPAERO<br>📊 Working companies (banks, insurances) to deal with data
+During the last years, I have worked for various clients (insurance companies, mutuals, asset managers) and developed an expertise in data-oriented languages (Python, R).<br>
+🎓 Master of Engineering ISAE-SUPAERO<br>📊 Freelance data consultant
 
 
 ## 🌐 Socials:
