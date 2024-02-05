@@ -1,5 +1,5 @@
 # 💫 About Me:<br>
-During the last years, I have worked for various clients (insurance companies, mutuals, asset managers) and developed an expertise in data-oriented languages (Python, R).<br><br>
+During the last years, I have worked for various clients (insurance companies, mutuals, asset managers) and developed an expertise in data engineering.<br><br>
 🎓 Master of Engineering ISAE-SUPAERO<br>📊 Freelance data consultant
 
 
